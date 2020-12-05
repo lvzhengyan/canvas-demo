@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#canvas {
+    /* canvas 是默认 display：inline 内联元素，设置宽高没用 */
+    display: block;
+}
